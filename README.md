@@ -88,4 +88,3 @@ To solve the above problem by creating a centralized, easy-to-use, and interacti
 
 ---
 
-> 📁 *Note: Please place your screenshots in a folder named `screenshots/` within your repo for these links to work.*
