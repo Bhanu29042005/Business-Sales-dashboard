@@ -78,7 +78,7 @@ To solve the above problem by creating a centralized, easy-to-use, and interacti
 ## 6️⃣ Screenshots  
 
 ### 🔹 Page 1 – Sales Summary  
-![Page 1](Page1-Sales Overview.png)
+![Page 1](Page1-Sales-Overview.png)
 
 ### 🔹 Page 2 – Contribution Analysis  
 ![Page 2](Page2-contribution.png)
