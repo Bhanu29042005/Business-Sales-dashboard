@@ -1,16 +1,16 @@
 # Business-Sales-Performance-dashboard
 
-## 1️⃣ Project Title  
+## 1 Project Title  
 **Business Performance Dashboard using Power BI**
 
 ---
 
-## 2️⃣ Short Description  
+## 2 Short Description  
 This project is an interactive Power BI dashboard that visualizes key sales metrics across different markets, customers, and time periods. It enables business users to analyze trends, evaluate profitability, and identify high- and low-performing segments quickly and effectively.
 
 ---
 
-## 3️⃣ Tech Stack  
+## 3 Tech Stack  
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)** for measures and calculated columns  
 - **Power Query** for data transformation  
@@ -18,7 +18,7 @@ This project is an interactive Power BI dashboard that visualizes key sales metr
 
 ---
 
-## 4️⃣ Data Source  
+## 4 Data Source  
 - Sample retail sales dataset including:
   - Revenue  
   - Sales Quantity  
@@ -28,12 +28,12 @@ This project is an interactive Power BI dashboard that visualizes key sales metr
 
 ---
 
-## 5️⃣ Features and Highlights  
+## 5 Features and Highlights  
 
-### 🧩 Business Problem  
+###  Business Problem  
 Sales performance was inconsistent across regions, and leadership lacked visibility into profit-driving vs. loss-generating markets, customers, and products. There was no unified view for decision-makers to compare trends or set performance targets.
 
-### 🎯 Why This Dashboard Was Built  
+###  Why This Dashboard Was Built  
 To solve the above problem by creating a centralized, easy-to-use, and interactive dashboard that highlights:
 - Which **markets** are performing well or underperforming  
 - Who the **top customers and products** are  
@@ -42,14 +42,14 @@ To solve the above problem by creating a centralized, easy-to-use, and interacti
 
 ---
 
-### ✅ Key Features  
+###  Key Features  
 
-#### 📌 KPIs  
+####  KPIs  
 - Total Revenue  
 - Total Sales Quantity  
 - Total Profit Margin  
 
-#### 📈 Page 1: Overall Sales Summary  
+####  Page 1: Overall Sales Summary  
 - **Cards Used**: KPI Cards for Revenue & Sales Qty  
 - **Visuals**:  
   - Bar charts for Revenue/Sales by Market  
@@ -57,7 +57,7 @@ To solve the above problem by creating a centralized, easy-to-use, and interacti
   - Bar cards for Top 5 Customers & Products  
   - Time filters (Year, Month)
 
-#### 📊 Page 2: Contribution Analysis  
+####  Page 2: Contribution Analysis  
 - **Cards Used**: KPI Cards for Revenue, Sales, and Profit Margin  
 - **Visuals**:  
   - Stacked bar charts for Revenue and Profit % by Market  
@@ -65,7 +65,7 @@ To solve the above problem by creating a centralized, easy-to-use, and interacti
   - Line chart for Revenue Trend  
   - Tabular matrix with contribution and profit margins
 
-#### 📉 Page 3: Market Risk & Recovery  
+####  Page 3: Market Risk & Recovery  
 - **Cards Used**: KPI Cards for Revenue, Sales Qty, and Profit Margin  
 - **Visuals**:  
   - Revenue Contribution % bar chart (with negatives in red)  
@@ -75,15 +75,15 @@ To solve the above problem by creating a centralized, easy-to-use, and interacti
 
 ---
 
-## 6️⃣ Screenshots  
+## 6 Screenshots  
 
-### 🔹 Page 1 – Sales Summary  
+###  Page 1 – Sales Summary  
 ![Page 1](Page1-Sales-Overview.png)
 
-### 🔹 Page 2 – Contribution Analysis  
+###  Page 2 – Contribution Analysis  
 ![Page 2](Page2-contribution.png)
 
-### 🔹 Page 3 – Market Risk & Recovery  
+###  Page 3 – Market Risk & Recovery  
 ![Page 3](Page3-Risk-recovery.png)
 
 ---
